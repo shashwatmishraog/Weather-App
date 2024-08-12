@@ -57,10 +57,3 @@ We welcome contributions from the developer community! Feel free to explore the 
 ## License
 
 Please refer to the `LICENSE` file for details on the license used by this project.
-
-## Additional Notes
-
-* Replace `https://your-netlify-url.netlify.app` with the actual URL after deploying your project to Netlify.
-* Consider adding screenshots or a short video demonstrating the application's functionality in the README.md.
-* You can further enhance the Getting Started section with detailed instructions on running the project locally, including instructions for starting the development server.
-T
