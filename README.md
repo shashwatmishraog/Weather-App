@@ -20,7 +20,7 @@ TechWeath is a user-friendly web application that delivers real-time weather inf
 
 Ready to check out the weather in real-time? Visit the deployed TechWeath application:
 
-[TechWeath on Netlify](techweath.netlify.app)
+[TechWeath on Netlify](https://techweath.netlify.app)
 
 ## Getting Started (Optional)
 
